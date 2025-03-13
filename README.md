@@ -106,7 +106,9 @@ This project is access to all. Feel free to use and modify it.
 ---
 
 ## 👨‍💻 **Connect with Me**
-📧 Email: [your.email@example.com](mailto:your.email@example.com) 
+📧 Email: [sampathkumarkolichalam@gmail.com]  
 
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 LinkedIn: [https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/]
+
 ---
+
