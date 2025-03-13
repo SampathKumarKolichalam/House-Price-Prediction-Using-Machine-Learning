@@ -35,7 +35,7 @@ This **House Price Prediction System** leverages **Machine Learning algorithms**
 ## **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/SampathKumarKolichalam/House-Price-Prediction.git
+git clone https://github.com/SampathKumarKolichalam/House-Price-Prediction-Using-Machine-Learning.git
 cd House-Price-Prediction
 ```
 
@@ -92,7 +92,7 @@ docker run -p 5000:5000 house-price-predictor
 Fork the repo, make your changes, and submit a pull request!  
 
 ```sh
-git clone https://github.com/yourusername/House-Price-Prediction.git
+git clone https://github.com/SampathKumarKolichalam/House-Price-Prediction-Using-Machine-Learning.git
 git checkout -b feature-branch
 git commit -m "Added new feature"
 git push origin feature-branch
