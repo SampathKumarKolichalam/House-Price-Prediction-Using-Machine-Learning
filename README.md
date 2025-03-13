@@ -35,7 +35,7 @@ This **House Price Prediction System** leverages **Machine Learning algorithms**
 ## **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/House-Price-Prediction.git
+git clone https://github.com/SampathKumarKolichalam/House-Price-Prediction.git
 cd House-Price-Prediction
 ```
 
