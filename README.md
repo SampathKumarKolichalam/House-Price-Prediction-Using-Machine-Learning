@@ -5,7 +5,7 @@
 
 ---
 
-## **About the Project**  
+## **About the Project:**  
 This **House Price Prediction System** leverages **Machine Learning algorithms** to analyze historical real estate data and predict property prices. It incorporates **feature engineering, market trends, and location-based data** to improve prediction accuracy. The project includes a **Flask web app** for users to enter property details and get real-time price estimates.
 
 ---
